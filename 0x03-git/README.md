@@ -1,2 +1,2 @@
 My first readme
-I added some information here 
+I added some information here today
